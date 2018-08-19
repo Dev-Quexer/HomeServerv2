@@ -1,0 +1,12 @@
+name: HomeBackend
+version: ${project.version}
+main: me.quexer.homeserverv2.homebackend.HomeBackend
+description: Homebackend for Spigot
+commands:
+  gamemode:
+    aliases: [gm, g]
+  teleport:
+    aliases: [tp]
+  nick:
+  coins:
+  group:

@@ -1,0 +1,7 @@
+name: Lobby
+version: ${project.version}
+main: me.quexer.homeserverv2.lobby.Lobby
+prefix: Lobby
+softdepend: [CloudAPI, HomeBackend]
+authors: [Quexer]
+description: Lobby

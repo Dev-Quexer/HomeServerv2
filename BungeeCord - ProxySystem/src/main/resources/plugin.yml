@@ -1,0 +1,4 @@
+name: ProxySystem
+version: ${project.version}
+main: me.quexer.homeserverv2.proxysystem.ProxySystem
+description: ProxySystem
